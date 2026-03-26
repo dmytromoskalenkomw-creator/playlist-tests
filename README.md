@@ -7,7 +7,7 @@ Project Setup
 
 1. Clone this repository:
 
-git clone <your-repo-url>
+git clone https://github.com/dmytromoskalenkomw-creator/playlist-tests/
 cd playlist-tests
 
 2. Initialize npm project
