@@ -7,23 +7,26 @@ Project Setup
 
 1. Clone this repository:
 
-1.1 git clone https://github.com/dmytromoskalenkomw-creator/playlist-tests/
-1.2 cd playlist-tests
+git clone https://github.com/dmytromoskalenkomw-creator/playlist-tests/
 
-2. Initialize npm project
+2. Change directory:
+   
+cd playlist-tests
+
+3. Initialize npm project
 
 npm init -y
 
-3. Install Playwright and dependencies:
+4. Install Playwright and dependencies:
 
 npm install -D @playwright/test
 npm install dotenv
 
-4. Install Playwright browsers:
+5. Install Playwright browsers:
 
 npx playwright install
 
-5. Running tests
+6. Running tests
 
 Run all tests (headless mode): npm test
 
